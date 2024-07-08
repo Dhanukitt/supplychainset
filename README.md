@@ -6,4 +6,7 @@ solution that leverages cloud computing technologies for efficient storage, proc
 and analysis of big data. 
 After that use the Google Cloud Platform (GCP) for practical implementation and provide 
 an example of data set extraction and analysis using the
-DataCoSupplyChainDataset.csv (fromhttps://data.mendeley.com/datasets/).
+DataCoSupplyChainDataset.csv (fromhttps://data.mendeley.com/datasets/)
+
+fIND MORE HERE :
+https://www.kaggle.com/datasets/dhanushkatharanga/supply-chain-dataset
